@@ -56,10 +56,10 @@ function shoot(x) {
     (Pete === Phil && "Draw!")
   );
 }
-console.log(
-  shoot([
-    [{ P1: "XX", P2: "XX" }, true],
-    [{ P1: "XX", P2: "XX" }, false],
-    [{ P1: "OO", P2: "OO" }, true],
-  ])
-);
+// console.log(
+//   shoot([
+//     [{ P1: "XX", P2: "XX" }, true],
+//     [{ P1: "XX", P2: "XX" }, false],
+//     [{ P1: "OO", P2: "OO" }, true],
+//   ])
+// );

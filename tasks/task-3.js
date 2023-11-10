@@ -24,7 +24,7 @@
 function penalty(a_list) {
   return a_list.sort((a, b) => (a + b > b + a ? 1 : -1)).join("");
 }
-console.log(penalty(["70", "46", "4", "19"]));
+// console.log(penalty(["70", "46", "4", "19"]));
 
 // function getValue(a_list, length) {
 //   console.log(length);
